@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TesteViewPager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ao_redor_detalhes">Ao Redor Detalhes</string>
+
+    <string name="ao_redor_detalhes_nome_estab">Sandra Megumi Mogi das Cruzes Consultorio Odontologico</string>
+    <string name="ao_redor_detalhes_tipo_estab">Consultorio Isolado</string>
+    <string name="ao_redor_detalhes_endereco_estab">Alameda Santo Angelo,170</string>
+
+</resources>
